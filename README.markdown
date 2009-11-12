@@ -1,0 +1,3 @@
+Template Tester, by Matt Patenaude
+==================================
+Template Tester is the product of about 15 minutes of work, but it's relatively handy: it's a simple app that lets you test "template" images. If you've ever used textured buttons in a Cocoa app, you've noticed that, in Apple-created apps, the button images take on a slight gradient, and have both white and blue highlighted states. These are template images: you provide an all black-and-white image, Cocoa automatically does the rest. This app lets you preview what your images will look like as image templates.
